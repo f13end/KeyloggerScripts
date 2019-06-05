@@ -1,5 +1,5 @@
 #include <windows.h> // For memcpy
-#include "CryptoGear.h"
+#include "CryptoGear.h" // For testing
 
 
 //  Constructor.
